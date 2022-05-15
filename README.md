@@ -1,4 +1,4 @@
-# Dashboard
+# Tractors Tasks Dashboard
 instruction of installation and start:
 1. download all folders
 2. open the redis folder and double click on 'redis-server.exe'
