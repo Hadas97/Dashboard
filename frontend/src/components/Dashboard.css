@@ -1,0 +1,14 @@
+
+.tractor-select{
+  width: 13rem;
+  margin: 1rem 0 1rem 4rem;
+}
+
+.charts-container{
+  display: flex;
+}
+
+.costum-tooltip{
+  background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(204, 204, 204);
+}
